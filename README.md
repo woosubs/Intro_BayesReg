@@ -1,4 +1,4 @@
-# Intro_BayesReg
+# A Practical Introduction to Bayesian Regression Analysis
 Repository for eScience seminar - A Practical Introduction to Bayesian Regression Analysis
 
 Two datasets are from R packages
